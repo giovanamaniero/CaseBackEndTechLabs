@@ -24,8 +24,11 @@ Ative a Venv. Navegue até a pasta Scripts dentro da sua Venv e execute o comand
 
 Instalação do Django
 Python              3.11.8
+
 Django               5.0.2
+
 djangorestframework 3.14.0
+
 pip                 24.0
 
 ## Uso
